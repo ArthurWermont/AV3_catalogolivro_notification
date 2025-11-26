@@ -1,6 +1,6 @@
-package com.catalogo.notificacao.repository;
+package com.catalogolivros.notification.repository;
 
-import com.catalogo.notificacao.model.Notificacao;
+import com.catalogolivros.notification.model.Notificacao;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.time.LocalDateTime;

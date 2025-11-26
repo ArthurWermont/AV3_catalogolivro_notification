@@ -1,7 +1,7 @@
-package com.catalogo.notificacao.controller;
+package com.catalogolivros.notification.controller;
 
-import com.catalogo.notificacao.model.Notificacao;
-import com.catalogo.notificacao.service.NotificacaoService;
+import com.catalogolivros.notification.model.Notificacao;
+import com.catalogolivros.notification.service.NotificacaoService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

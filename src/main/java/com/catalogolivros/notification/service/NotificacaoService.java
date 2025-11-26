@@ -1,9 +1,9 @@
-package com.catalogo.notificacao.service;
+package com.catalogolivros.notification.service;
 
-import com.catalogo.notificacao.client.UsuarioClient;
-import com.catalogo.notificacao.dto.UsuarioDTO;
-import com.catalogo.notificacao.model.Notificacao;
-import com.catalogo.notificacao.repository.NotificacaoRepository;
+import com.catalogolivros.notification.client.UsuarioClient;
+import com.catalogolivros.notification.dto.UsuarioDTO;
+import com.catalogolivros.notification.model.Notificacao;
+import com.catalogolivros.notification.repository.NotificacaoRepository;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;

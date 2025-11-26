@@ -1,4 +1,4 @@
-package com.catalagolivros.notification;
+package com.catalogolivros.notification;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

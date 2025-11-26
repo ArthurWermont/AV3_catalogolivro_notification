@@ -1,4 +1,4 @@
-package com.catalogo.notificacao.dto;
+package com.catalogolivros.notification.dto;
 
 public class UsuarioDTO {
     private Long id;

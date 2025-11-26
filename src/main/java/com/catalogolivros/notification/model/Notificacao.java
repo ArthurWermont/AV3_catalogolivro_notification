@@ -1,4 +1,4 @@
-package com.catalogo.notificacao.model;
+package com.catalogolivros.notification.model;
 
 import jakarta.persistence.*;
 import java.time.LocalDateTime;

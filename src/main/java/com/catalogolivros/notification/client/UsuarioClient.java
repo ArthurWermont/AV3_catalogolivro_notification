@@ -1,6 +1,6 @@
-package com.catalogo.notificacao.client;
+package com.catalogolivros.notification.client;
 
-import com.catalogo.notificacao.dto.UsuarioDTO;
+import com.catalogolivros.notification.dto.UsuarioDTO;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
